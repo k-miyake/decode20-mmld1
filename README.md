@@ -1,4 +1,4 @@
-# decode19-vue-sample
+# decode20-vue-sample
 
 ## Project setup
 ```
